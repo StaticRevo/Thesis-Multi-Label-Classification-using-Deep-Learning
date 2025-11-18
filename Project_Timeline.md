@@ -46,7 +46,7 @@ This document outlines the high-level development timeline and key stages involv
 
 - **Custom Model Architecture (CustomModelV9):**  
   *January – March 2025* (450 hrs)  
-  Iteratively developed a custom CNN architecture:
+  Iteratively developed a custom CNN architecture that expanded on:
   - Depthwise Separable Convs, Residual Blocks, WideBottlenecks  
   - Spectral, Coordinate, SE, ECA, and CBAM Attention  
   - Multi-scale blocks and attention-weighted fusion  
