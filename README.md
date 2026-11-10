@@ -8,6 +8,8 @@ Satellite imagery can help us find solutions to the growing number of environmen
 
 This project aims to address this issue by developing a CNN model capable of classifying land cover types in satellite imagery. This capability can benefit a variety of stakeholders, including conservationists, urban planners, and environmental scientists, by helping them **survey and identify patterns in land use**. This allows for the detection of natural areas under threat or the identification of regions suitable for urban development.
 
+Full Thesis can be found in [Thesis PDF](https://github.com/StaticRevo/Thesis-Multi-Label-Classification-using-Deep-Learning/blob/main/Thesis%20PDF)
+
 ## Project Goals
 - Develop a Custom CNN that is capable of accurately classify multiple land types based on Sentinel-2 multispectral satellite imagery.
 - Utilise State-Of-The-Art (SOTA) models to leverage existing knowledge and serve as benchmarks for comparison
